@@ -1,0 +1,20 @@
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\6. Hafta - Ağaç\uyg6 - Ogrenci\İkiliAgac\İkiliAgac\obj\Debug\İkiliAgac.csprojAssemblyReference.cache
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\6. Hafta - Ağaç\uyg6 - Ogrenci\İkiliAgac\İkiliAgac\obj\Debug\İkiliAgac.Form1.resources
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\6. Hafta - Ağaç\uyg6 - Ogrenci\İkiliAgac\İkiliAgac\obj\Debug\İkiliAgac.Properties.Resources.resources
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\6. Hafta - Ağaç\uyg6 - Ogrenci\İkiliAgac\İkiliAgac\obj\Debug\İkiliAgac.csproj.GenerateResource.cache
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\6. Hafta - Ağaç\uyg6 - Ogrenci\İkiliAgac\İkiliAgac\obj\Debug\İkiliAgac.csproj.CoreCompileInputs.cache
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\6. Hafta - Ağaç\uyg6 - Ogrenci\İkiliAgac\İkiliAgac\bin\Debug\İkiliAgac.exe.config
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\6. Hafta - Ağaç\uyg6 - Ogrenci\İkiliAgac\İkiliAgac\bin\Debug\İkiliAgac.exe
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\6. Hafta - Ağaç\uyg6 - Ogrenci\İkiliAgac\İkiliAgac\bin\Debug\İkiliAgac.pdb
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\6. Hafta - Ağaç\uyg6 - Ogrenci\İkiliAgac\İkiliAgac\obj\Debug\İkiliAgac.exe
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\6. Hafta - Ağaç\uyg6 - Ogrenci\İkiliAgac\İkiliAgac\obj\Debug\İkiliAgac.pdb
+C:\Users\tevfi\Desktop\veri yapıları\ikili ağaç\İkiliAgac\İkiliAgac\bin\Debug\İkiliAgac.exe.config
+C:\Users\tevfi\Desktop\veri yapıları\ikili ağaç\İkiliAgac\İkiliAgac\bin\Debug\İkiliAgac.exe
+C:\Users\tevfi\Desktop\veri yapıları\ikili ağaç\İkiliAgac\İkiliAgac\bin\Debug\İkiliAgac.pdb
+C:\Users\tevfi\Desktop\veri yapıları\ikili ağaç\İkiliAgac\İkiliAgac\obj\Debug\İkiliAgac.csprojAssemblyReference.cache
+C:\Users\tevfi\Desktop\veri yapıları\ikili ağaç\İkiliAgac\İkiliAgac\obj\Debug\İkiliAgac.Form1.resources
+C:\Users\tevfi\Desktop\veri yapıları\ikili ağaç\İkiliAgac\İkiliAgac\obj\Debug\İkiliAgac.Properties.Resources.resources
+C:\Users\tevfi\Desktop\veri yapıları\ikili ağaç\İkiliAgac\İkiliAgac\obj\Debug\İkiliAgac.csproj.GenerateResource.cache
+C:\Users\tevfi\Desktop\veri yapıları\ikili ağaç\İkiliAgac\İkiliAgac\obj\Debug\İkiliAgac.csproj.CoreCompileInputs.cache
+C:\Users\tevfi\Desktop\veri yapıları\ikili ağaç\İkiliAgac\İkiliAgac\obj\Debug\İkiliAgac.exe
+C:\Users\tevfi\Desktop\veri yapıları\ikili ağaç\İkiliAgac\İkiliAgac\obj\Debug\İkiliAgac.pdb
